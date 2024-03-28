@@ -31,7 +31,7 @@ targets:
     # Doing so enables strict verification of the settings below.
     mode: production
     workspace:
-      host: https://adb-5613552780868266.6.azuredatabricks.net
+      host: https://adb-5716907179031959.19.azuredatabricks.net
       # We always use /Users/csachin@sigmoidanalytics.com for all resources to make sure we only have a single copy.
       # If this path results in an error, please make sure you have a recent version of the CLI installed.
       root_path: /Users/csachin@sigmoidanalytics.com/.bundle/${bundle.name}/${bundle.target}
